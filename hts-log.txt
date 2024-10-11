@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Oct 2024 20:28:57 at https://invisimple.id/s03/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://invisimple.id/s03/ -O1 "D:\Undangan\robi-dewi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:30:20	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://invisimple.id/s03/)
+20:30:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/uploads/2023/04/cropped-invisimple-id-icon-270x270.png (from https://invisimple.id/s03/)
+20:30:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/uploads/2023/05/DSC_9622-.jpg (from https://invisimple.id/s03/)
+20:30:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/uploads/elementor/thumbs/DSC_9648--qn8yj3lyxkyn9il24gtpmu2jawp1tt2ynwncik6tu0.jpg (from https://invisimple.id/s03/)
+20:30:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/uploads/elementor/thumbs/DSC_9936--qn8yj5hnb917wqibthmyrtlghofs97afc5ybh441hk.jpg (from https://invisimple.id/s03/)
+20:30:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/uploads/elementor/thumbs/DSC_9754--qn8yiccnfdxbwtonjn1j4iy62qfeml2qw5q9ljb8ug.jpg (from https://invisimple.id/s03/)
+20:30:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/plugins/invisimple-2/assets/css/dynamic-visibility.min.css?ver=2.2.5 (from https://invisimple.id/s03/)
+20:30:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0 (from https://invisimple.id/s03/)
+20:31:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/plugins/invisimple-0/assets/js/modal-min.js?ver=3.5.9 (from https://invisimple.id/s03/)
+20:31:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/plugins/invisimple-8/themes/default/css/fonts/sqr721c-webfont.woff2 (from https://invisimple.id/wp-content/plugins/invisimple-8/themes/default/style.css?ver=7.5.3)
+20:31:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg (from https://invisimple.id/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.9.1.1)
+20:31:01	Error: 	"Not Found" (404) at link https://invisimple.id/s03/POST (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+20:31:01	Error: 	"Not Found" (404) at link https://invisimple.id/s03/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+20:31:01	Error: 	"Not Found" (404) at link https://invisimple.id/s03/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+20:31:01	Error: 	"Not Found" (404) at link https://invisimple.id/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 5 seconds : 154 links scanned, 138 files written (7336168 bytes overall) [4133425 bytes received at 33067 bytes/sec], 4477087 bytes transferred using HTTP compression in 86 files, ratio 21%, 6.5 requests per connection
+(5 errors, 10 warnings, 0 messages)
